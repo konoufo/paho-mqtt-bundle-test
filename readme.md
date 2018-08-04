@@ -17,6 +17,6 @@ You need Python 3 to be able to run the local broker.
 Start the local broker and run the tests:
 ```
 > runBroker.sh
-> ../../runTest.sh
+> runTest.sh
 ```
 If the tests run without throwing errors (namely the infamous `TypeError: Cannot read property length of undefined.`), then we are good.
