@@ -13,7 +13,8 @@ Clone the project and install dependencies:
 ````
 ## Run the tests
 You need Python 3 to be able to run the local broker.
-***Important: You want to replace the `paho-mqtt.js` file in `src` folder with the new release you want to test, if that release doesn't match the one currently available online on the npm registry.*** 
+***Important: You want to replace the `paho-mqtt.js` file in `src` folder with the new release you want to test, if that release doesn't match the one currently available online on the npm registry.***
+
 Start the local broker and run the tests:
 ```
 > runBroker.sh
